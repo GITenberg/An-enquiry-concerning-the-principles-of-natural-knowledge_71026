@@ -1,0 +1,35 @@
+_repo: An-enquiry-concerning-the-principles-of-natural-knowledge_71026
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitehead, Alfred North
+    alias: Whitehead, A. N. (Alfred North)
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '8283'
+    url: http://www.gutenberg.org/2009/agents/8283
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_North_Whitehead
+description: ''
+gutenberg_issued: '2023-06-23'
+identifiers:
+  gutenberg: '71026'
+  lccn: a30001213
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001483670
+pgterms:marc905: 20230526031923whitehead
+pgterms:marc906: '1925'
+pgterms:marc907: gb
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bUniversity Press, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Space and time'
+- !lcsh 'Science -- Philosophy'
+- !lcc 'Q'
+- GITenberg
+title: An enquiry concerning the principles of natural knowledge
+url: http://www.gutenberg.org/ebooks/71026
