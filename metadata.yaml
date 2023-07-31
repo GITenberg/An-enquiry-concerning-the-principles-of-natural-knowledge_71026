@@ -1,5 +1,8 @@
 _repo: An-enquiry-concerning-the-principles-of-natural-knowledge_71026
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71026-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitehead, Alfred North
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8283
     wikipedia: https://en.wikipedia.org/wiki/Alfred_North_Whitehead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71026#An-enquiry-concerning-the-principles-of-natural-knowledge
 gutenberg_issued: '2023-06-23'
 identifiers:
   gutenberg: '71026'
